@@ -39,7 +39,7 @@
                     <table id="example" class="table datatables text-center">
                         <thead class="">
                             <tr>
-                                <th>Sr No</th>
+                                <th>Serial No</th>
                                 <th>Bill Id</th>
                                 <th>Customer Name</th>
                                 <th>Status</th>
